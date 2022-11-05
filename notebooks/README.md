@@ -2,7 +2,7 @@
 ## ✅ Description
 This is a STT which was made as an assignment for my Programming course from MSc Voice Technology at Rijksuniversiteit Groningen/Campus Fryslân.
 
-The data is my 105 English recordings in [Common Voice](https://commonvoice.mozilla.org/en).
+The data is my 105 English recordings in [Common Voice](https://commonvoice.mozilla.org/en) (takeout_442_metadata.txt and takeout_442_pt_0.zip).
 
 
 ## ✅ What did I do?
