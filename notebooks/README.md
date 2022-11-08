@@ -11,7 +11,7 @@ How I first did it was just like the notebook but then hit the stone and realize
 | Notebook title | Language(s) | Link to Colab |
 |----------------|---------------|-------------|
 | Create a custom Speech-to-Text model for your voice (the original and not my notebook) | English | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coqui-ai/STT/blob/main/notebooks/train_personal_model_with_common_voice.ipynb) |
-| Speech-to-Text model for Golshid's voice | English | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1Vh-V3KnkanbQaB4du81gc59AO9ItIR-B?authuser=1]))|
+| Speech-to-Text model for Golshid's voice | English | send an email to g.shekoufaneh@student.rug.nl to get the link to my notebook |
 
 ## ✅ Results
 The whole training and testing will take up to an hour. The results are bellow:
