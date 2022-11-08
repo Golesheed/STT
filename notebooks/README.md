@@ -6,7 +6,7 @@ The data is my 105 English recordings in [Common Voice](https://commonvoice.mozi
 
 
 ## ✅ What did I do?
-How I first did it was just like the notebook but then hit the stone and realized the link will be expired after some time so I just downloaded my data and uploaded it here so I can train my STT easier. 
+How I first did it was just like the notebook but then hit the stone and realized the link will be expired after some time so I just downloaded my data and uploaded it here so I can train my STT easier. Take a look at "Speech-to-Text model for Golshid's voice" notebook to get a better idea and understand what I did.
 
 | Notebook title | Language(s) | Link to Colab |
 |----------------|---------------|-------------|
