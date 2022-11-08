@@ -6,11 +6,12 @@ The data is my 105 English recordings in [Common Voice](https://commonvoice.mozi
 
 
 ## ✅ What did I do?
-How I first did it was just like the notebook but then hit the stone and realized the link will be expired after some time so I just downloaded my data and uploaded it here so I can train my STT easier. (if you want the notebook, please send an email to g.shekoufandeh@student.rug.nl)
+How I first did it was just like the notebook but then hit the stone and realized the link will be expired after some time so I just downloaded my data and uploaded it here so I can train my STT easier. 
 
 | Notebook title | Language(s) | Link to Colab |
 |----------------|---------------|-------------|
 | Create a custom Speech-to-Text model for your voice (the original and not my notebook) | English | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coqui-ai/STT/blob/main/notebooks/train_personal_model_with_common_voice.ipynb) |
+| Speech-to-Text model for Golshid's voice | English | [![Open In Colab](https://colab.research.google.com/drive/1Vh-V3KnkanbQaB4du81gc59AO9ItIR-B?usp=sharing) |
 
 ## ✅ Results
 The whole training and testing will take up to an hour. The results are bellow:
